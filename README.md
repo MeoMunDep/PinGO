@@ -48,7 +48,8 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 }
 ```
 
-### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
+### 2. `datas.txt` 🗂️ - - [Get it from here](https://t.me/KeoAirDropFreeNee/1586)
+
 
 ```txt
 query_id.../user...
@@ -59,7 +60,7 @@ query_id.../user...
 ### 3. `wallets.txt` 💼 - Ton Wallet.
 
 - Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
-
+- Currently turned off
 
 ```txt - wallet address
 U...
