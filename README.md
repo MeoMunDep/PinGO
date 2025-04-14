@@ -28,7 +28,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypto ws
+   npm i user-agents axios colors https-proxy-agent socks-proxy-agent 
    ```
 
 2. **Prepare Configuration Files:**
@@ -43,11 +43,9 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
-  "delayEachAccount": [1, 81],
+  "delayEachAccount": [1, 1],
   "referralCode": "1XA96FUU"
 }
-
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
